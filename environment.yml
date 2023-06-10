@@ -1,0 +1,23 @@
+name: micrograd
+channels:
+        - conda-forge
+        - bioconda
+dependencies:
+
+        - jupyterlab_widgets
+        - ipywidgets
+        - ipykernel 
+        - jupyterlab
+        - python=3.9
+
+        - matplotlib
+        - pandas
+        - numpy
+
+        # graphviz
+        - graphviz
+        - python-graphviz 
+        - pydot
+
+
+
